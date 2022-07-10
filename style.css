@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Courgette&family=Stick+No+Bills:wght@300&family=Timmana&family=Trispace:wght@200;400&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: cursive;
+}
+.CONTAINER{
+    background-color: rgb(222, 191, 221);
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.CONTAINER hr{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#vegetableSaladImage{
+    padding-bottom: 20px;
+
+}
+#benefits,#steps,#titleName{
+    margin-bottom: 20px;
+    text-decoration:underline;
+}
+#benefitsParagraph{
+    margin-bottom: 20px;
+}
